@@ -1,0 +1,2 @@
+This program defines a structure by representing a point on a graph. Each point has an x and y coordinate to represent its position on the graph. Afterward, the program uses 
+overload the equality operator (==) and stream insertion operators (<<) for the points.
